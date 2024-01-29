@@ -292,7 +292,6 @@ img {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	height: 100%;
 	padding-top: 51px;
 	padding-right: 40px;
 	padding-bottom: 48px;
